@@ -9,7 +9,7 @@ The Grocery Store Management System is a simple, efficient, and well-structured 
 - Search and filter items quickly
 - Clean and structured codebase for easy customization
   
- ## 📘 Description (350 Words)
+ ## 📘 Description
 - The **Grocery Store Management System** is built to simplify essential tasks within a grocery store environment. It enhances the workflow by improving product organization, inventory monitoring, and customer billing. The system is flexible enough to support small businesses, student projects, or large-scale application development.
 
 - **Product Management** enables users to add new products, update existing ones, or delete items that are no longer needed. Maintaining accurate product information ensures smooth and error-free store operations.
@@ -25,7 +25,10 @@ The Grocery Store Management System is a simple, efficient, and well-structured 
 - The **clean and modular codebase** makes the project ideal for customization.
   
   ## 🛠️ Technologies Used
-(Add your tech stack here, e.g., Python, Node.js, React, SQL, etc.)
+HTML5 — Structure of the website
+CSS3 — Styling, layout, responsiveness
+JavaScript — (Optional) Interactivity for cart, form, etc.
+Boxicons — Icons for UI elements
 
 ## 📄 Usage
 Here are some basic usage guidelines to help you get started:
@@ -42,6 +45,13 @@ Here are some basic usage guidelines to help you get started:
 - Data visualization for sales analytics
 - Cloud-based synchronization
 - Mobile app or POS interface
+  
+ ## 🤝 Contributing
+Contributions are welcome!
+Feel free to submit issues or pull requests to improve the project.
+
+## 📄 License
+This project is licensed under the MIT License.
 
 
 
